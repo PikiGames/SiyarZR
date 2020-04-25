@@ -1,3 +1,4 @@
 version 1
 enabled true
-latestUpdateLink https://drive.google.com/file/d/195GHW_pJnD3pXQ-znb5Do7z0qyvp6Meq/view?usp=sharing
+latestUpdateLink 
+Remember that these are only updates of the loader, not the dll, if you have updated your dll, send it to me and i will update the loader
