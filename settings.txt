@@ -1,2 +1,3 @@
 version 2
 enabled true
+latestUpdateLink 
