@@ -1,3 +1,3 @@
 version 1
 enabled true
-latestUpdateLink 
+latestUpdateLink https://drive.google.com/file/d/195GHW_pJnD3pXQ-znb5Do7z0qyvp6Meq/view?usp=sharing
