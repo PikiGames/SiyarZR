@@ -1,1 +1,2 @@
-Welcome, this is our first release!!! If you find any bugs, report them in the bugs channel on discord!
+The first update is there!
+We did not make big changes, only bug fixes
