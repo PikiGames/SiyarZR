@@ -1,2 +1,1 @@
-The first update is there!
-We did not make big changes, only bug fixes
+Another update is there! Ofc fixed the new crash issue
