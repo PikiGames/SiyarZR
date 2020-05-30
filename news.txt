@@ -1,1 +1,2 @@
-The new update is here! Fixed the bug where you couldn't see the storm
+The new update is here!
+Fixed the bug where you couldn't see the storm
