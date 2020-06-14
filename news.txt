@@ -1,2 +1,1 @@
-The new update is here!
-Fixed the bug where you couldn't see the storm
+Added the ability to toggle some features
